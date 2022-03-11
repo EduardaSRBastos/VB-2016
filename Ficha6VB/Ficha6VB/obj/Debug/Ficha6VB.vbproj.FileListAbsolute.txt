@@ -1,0 +1,24 @@
+E:\school\TP\Ficha6VB\Ficha6VB\bin\Debug\Ficha6VB.exe.config
+E:\school\TP\Ficha6VB\Ficha6VB\bin\Debug\Ficha6VB.exe
+E:\school\TP\Ficha6VB\Ficha6VB\bin\Debug\Ficha6VB.pdb
+E:\school\TP\Ficha6VB\Ficha6VB\bin\Debug\Ficha6VB.xml
+E:\school\TP\Ficha6VB\Ficha6VB\obj\Debug\Ficha6VB.Resources.resources
+E:\school\TP\Ficha6VB\Ficha6VB\obj\Debug\Ficha6VB.vbproj.GenerateResource.Cache
+E:\school\TP\Ficha6VB\Ficha6VB\obj\Debug\Ficha6VB.exe
+E:\school\TP\Ficha6VB\Ficha6VB\obj\Debug\Ficha6VB.xml
+E:\school\TP\Ficha6VB\Ficha6VB\obj\Debug\Ficha6VB.pdb
+E:\school\TP\Ficha6VB\Ficha6VB\obj\Debug\Ficha6VB.vbprojResolveAssemblyReference.cache
+E:\school\TP\Ficha6VB acabar\Ficha6VB\bin\Debug\Ficha6VB.exe.config
+E:\school\TP\Ficha6VB acabar\Ficha6VB\obj\Debug\Ficha6VB.exe
+E:\school\TP\Ficha6VB acabar\Ficha6VB\obj\Debug\Ficha6VB.xml
+E:\school\TP\Ficha6VB acabar\Ficha6VB\obj\Debug\Ficha6VB.pdb
+E:\school\TP\Ficha6VB acabar\Ficha6VB\bin\Debug\Ficha6VB.exe
+E:\school\TP\Ficha6VB acabar\Ficha6VB\bin\Debug\Ficha6VB.pdb
+E:\school\TP\Ficha6VB acabar\Ficha6VB\bin\Debug\Ficha6VB.xml
+E:\school\TP\Ficha6VB acabar\Ficha6VB\obj\Debug\Ficha6VB.vbprojResolveAssemblyReference.cache
+E:\school\TP\Ficha6VB acabar\Ficha6VB\obj\Debug\Ficha6VB.Resources.resources
+E:\school\TP\Ficha6VB acabar\Ficha6VB\obj\Debug\Ficha6VB.vbproj.GenerateResource.Cache
+G:\school\TP\Ficha6VB\Ficha6VB\bin\Debug\Ficha6VB.exe.config
+G:\school\TP\Ficha6VB\Ficha6VB\obj\Debug\Ficha6VB.exe
+G:\school\TP\Ficha6VB\Ficha6VB\obj\Debug\Ficha6VB.xml
+G:\school\TP\Ficha6VB\Ficha6VB\obj\Debug\Ficha6VB.pdb

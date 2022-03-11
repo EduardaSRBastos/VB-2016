@@ -1,0 +1,10 @@
+E:\school\TP\Ficha7VBmc_06\Ficha7VBmc_06\bin\Debug\Ficha7VBmc_06.exe.config
+E:\school\TP\Ficha7VBmc_06\Ficha7VBmc_06\bin\Debug\Ficha7VBmc_06.exe
+E:\school\TP\Ficha7VBmc_06\Ficha7VBmc_06\bin\Debug\Ficha7VBmc_06.pdb
+E:\school\TP\Ficha7VBmc_06\Ficha7VBmc_06\bin\Debug\Ficha7VBmc_06.xml
+E:\school\TP\Ficha7VBmc_06\Ficha7VBmc_06\obj\Debug\Ficha7VBmc_06.Resources.resources
+E:\school\TP\Ficha7VBmc_06\Ficha7VBmc_06\obj\Debug\Ficha7VBmc_06.vbproj.GenerateResource.Cache
+E:\school\TP\Ficha7VBmc_06\Ficha7VBmc_06\obj\Debug\Ficha7VBmc_06.exe
+E:\school\TP\Ficha7VBmc_06\Ficha7VBmc_06\obj\Debug\Ficha7VBmc_06.xml
+E:\school\TP\Ficha7VBmc_06\Ficha7VBmc_06\obj\Debug\Ficha7VBmc_06.pdb
+E:\school\TP\Ficha7VBmc_06\Ficha7VBmc_06\obj\Debug\Ficha7VBmc_06.vbprojResolveAssemblyReference.cache

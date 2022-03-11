@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 14 for Windows Desktop
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Ficha7VBmc_06", "Ficha7VBmc_06\Ficha7VBmc_06.vbproj", "{2E033765-2759-471B-8829-54A276FF88FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E033765-2759-471B-8829-54A276FF88FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E033765-2759-471B-8829-54A276FF88FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E033765-2759-471B-8829-54A276FF88FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E033765-2759-471B-8829-54A276FF88FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

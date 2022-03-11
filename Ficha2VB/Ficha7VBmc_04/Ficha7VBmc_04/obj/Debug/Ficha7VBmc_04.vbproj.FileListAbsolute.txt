@@ -1,0 +1,13 @@
+H:\TP\Ficha7VBmc_04\Ficha7VBmc_04\bin\Debug\Ficha7VBmc_04.exe.config
+H:\TP\Ficha7VBmc_04\Ficha7VBmc_04\bin\Debug\Ficha7VBmc_04.exe
+H:\TP\Ficha7VBmc_04\Ficha7VBmc_04\bin\Debug\Ficha7VBmc_04.pdb
+H:\TP\Ficha7VBmc_04\Ficha7VBmc_04\bin\Debug\Ficha7VBmc_04.xml
+H:\TP\Ficha7VBmc_04\Ficha7VBmc_04\obj\Debug\Ficha7VBmc_04.Resources.resources
+H:\TP\Ficha7VBmc_04\Ficha7VBmc_04\obj\Debug\Ficha7VBmc_04.vbproj.GenerateResource.Cache
+H:\TP\Ficha7VBmc_04\Ficha7VBmc_04\obj\Debug\Ficha7VBmc_04.exe
+H:\TP\Ficha7VBmc_04\Ficha7VBmc_04\obj\Debug\Ficha7VBmc_04.xml
+H:\TP\Ficha7VBmc_04\Ficha7VBmc_04\obj\Debug\Ficha7VBmc_04.pdb
+E:\school\TP\Ficha7VBmc_04\Ficha7VBmc_04\bin\Debug\Ficha7VBmc_04.exe.config
+E:\school\TP\Ficha7VBmc_04\Ficha7VBmc_04\obj\Debug\Ficha7VBmc_04.exe
+E:\school\TP\Ficha7VBmc_04\Ficha7VBmc_04\obj\Debug\Ficha7VBmc_04.xml
+E:\school\TP\Ficha7VBmc_04\Ficha7VBmc_04\obj\Debug\Ficha7VBmc_04.pdb

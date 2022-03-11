@@ -1,0 +1,13 @@
+H:\TP\FichaVBmc03\FichaVBmc03\bin\Debug\FichaVBmc03.exe.config
+H:\TP\FichaVBmc03\FichaVBmc03\bin\Debug\FichaVBmc03.exe
+H:\TP\FichaVBmc03\FichaVBmc03\bin\Debug\FichaVBmc03.pdb
+H:\TP\FichaVBmc03\FichaVBmc03\bin\Debug\FichaVBmc03.xml
+H:\TP\FichaVBmc03\FichaVBmc03\obj\Debug\FichaVBmc03.Resources.resources
+H:\TP\FichaVBmc03\FichaVBmc03\obj\Debug\FichaVBmc03.vbproj.GenerateResource.Cache
+H:\TP\FichaVBmc03\FichaVBmc03\obj\Debug\FichaVBmc03.exe
+H:\TP\FichaVBmc03\FichaVBmc03\obj\Debug\FichaVBmc03.xml
+H:\TP\FichaVBmc03\FichaVBmc03\obj\Debug\FichaVBmc03.pdb
+E:\school\TP\Ficha1VB\FichaVBmc03\FichaVBmc03\bin\Debug\FichaVBmc03.exe.config
+E:\school\TP\Ficha1VB\FichaVBmc03\FichaVBmc03\obj\Debug\FichaVBmc03.exe
+E:\school\TP\Ficha1VB\FichaVBmc03\FichaVBmc03\obj\Debug\FichaVBmc03.xml
+E:\school\TP\Ficha1VB\FichaVBmc03\FichaVBmc03\obj\Debug\FichaVBmc03.pdb

@@ -1,0 +1,30 @@
+E:\school\TP\Ficha8VB\Ficha8VB\bin\Debug\Ficha8VB.exe.config
+E:\school\TP\Ficha8VB\Ficha8VB\bin\Debug\Ficha8VB.exe
+E:\school\TP\Ficha8VB\Ficha8VB\bin\Debug\Ficha8VB.pdb
+E:\school\TP\Ficha8VB\Ficha8VB\bin\Debug\Ficha8VB.xml
+E:\school\TP\Ficha8VB\Ficha8VB\obj\Debug\Ficha8VB.vbprojResolveAssemblyReference.cache
+E:\school\TP\Ficha8VB\Ficha8VB\obj\Debug\Ficha8VB.Resources.resources
+E:\school\TP\Ficha8VB\Ficha8VB\obj\Debug\Ficha8VB.vbproj.GenerateResource.Cache
+E:\school\TP\Ficha8VB\Ficha8VB\obj\Debug\Ficha8VB.exe
+E:\school\TP\Ficha8VB\Ficha8VB\obj\Debug\Ficha8VB.xml
+E:\school\TP\Ficha8VB\Ficha8VB\obj\Debug\Ficha8VB.pdb
+J:\school\TP\Ficha8VB\Ficha8VB\bin\Debug\Ficha8VB.exe.config
+J:\school\TP\Ficha8VB\Ficha8VB\obj\Debug\Ficha8VB.exe
+J:\school\TP\Ficha8VB\Ficha8VB\obj\Debug\Ficha8VB.xml
+J:\school\TP\Ficha8VB\Ficha8VB\obj\Debug\Ficha8VB.pdb
+E:\school\TP\Ficha8VB acabar\Ficha8VB\bin\Debug\Ficha8VB.exe.config
+E:\school\TP\Ficha8VB acabar\Ficha8VB\obj\Debug\Ficha8VB.exe
+E:\school\TP\Ficha8VB acabar\Ficha8VB\obj\Debug\Ficha8VB.xml
+E:\school\TP\Ficha8VB acabar\Ficha8VB\obj\Debug\Ficha8VB.pdb
+G:\school\TP\Ficha8VB acabar\Ficha8VB\bin\Debug\Ficha8VB.exe.config
+G:\school\TP\Ficha8VB acabar\Ficha8VB\obj\Debug\Ficha8VB.exe
+G:\school\TP\Ficha8VB acabar\Ficha8VB\obj\Debug\Ficha8VB.xml
+G:\school\TP\Ficha8VB acabar\Ficha8VB\obj\Debug\Ficha8VB.pdb
+G:\school\TP\Ficha8VB\Ficha8VB\bin\Debug\Ficha8VB.exe.config
+G:\school\TP\Ficha8VB\Ficha8VB\obj\Debug\Ficha8VB.exe
+G:\school\TP\Ficha8VB\Ficha8VB\obj\Debug\Ficha8VB.xml
+G:\school\TP\Ficha8VB\Ficha8VB\obj\Debug\Ficha8VB.pdb
+E:\school\10ºAno\TP\FichasVB\Ficha8VB\Ficha8VB\bin\Debug\Ficha8VB.exe.config
+E:\school\10ºAno\TP\FichasVB\Ficha8VB\Ficha8VB\obj\Debug\Ficha8VB.exe
+E:\school\10ºAno\TP\FichasVB\Ficha8VB\Ficha8VB\obj\Debug\Ficha8VB.xml
+E:\school\10ºAno\TP\FichasVB\Ficha8VB\Ficha8VB\obj\Debug\Ficha8VB.pdb

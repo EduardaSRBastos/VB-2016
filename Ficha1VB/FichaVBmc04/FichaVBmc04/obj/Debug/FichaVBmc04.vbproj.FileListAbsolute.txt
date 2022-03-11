@@ -1,0 +1,13 @@
+H:\TP\FichaVBmc04\FichaVBmc04\bin\Debug\FichaVBmc04.exe.config
+H:\TP\FichaVBmc04\FichaVBmc04\bin\Debug\FichaVBmc04.exe
+H:\TP\FichaVBmc04\FichaVBmc04\bin\Debug\FichaVBmc04.pdb
+H:\TP\FichaVBmc04\FichaVBmc04\bin\Debug\FichaVBmc04.xml
+H:\TP\FichaVBmc04\FichaVBmc04\obj\Debug\FichaVBmc04.Resources.resources
+H:\TP\FichaVBmc04\FichaVBmc04\obj\Debug\FichaVBmc04.vbproj.GenerateResource.Cache
+H:\TP\FichaVBmc04\FichaVBmc04\obj\Debug\FichaVBmc04.exe
+H:\TP\FichaVBmc04\FichaVBmc04\obj\Debug\FichaVBmc04.xml
+H:\TP\FichaVBmc04\FichaVBmc04\obj\Debug\FichaVBmc04.pdb
+E:\school\TP\Ficha1VB\FichaVBmc04\FichaVBmc04\bin\Debug\FichaVBmc04.exe.config
+E:\school\TP\Ficha1VB\FichaVBmc04\FichaVBmc04\obj\Debug\FichaVBmc04.exe
+E:\school\TP\Ficha1VB\FichaVBmc04\FichaVBmc04\obj\Debug\FichaVBmc04.xml
+E:\school\TP\Ficha1VB\FichaVBmc04\FichaVBmc04\obj\Debug\FichaVBmc04.pdb

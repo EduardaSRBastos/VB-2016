@@ -1,0 +1,18 @@
+c:\users\ebastos\documents\visual studio 2015\Projects\FichaVBmc01\FichaVBmc01\bin\Debug\FichaVBmc01.exe.config
+c:\users\ebastos\documents\visual studio 2015\Projects\FichaVBmc01\FichaVBmc01\obj\Debug\FichaVBmc01.vbprojResolveAssemblyReference.cache
+c:\users\ebastos\documents\visual studio 2015\Projects\FichaVBmc01\FichaVBmc01\obj\Debug\FichaVBmc01.Resources.resources
+c:\users\ebastos\documents\visual studio 2015\Projects\FichaVBmc01\FichaVBmc01\obj\Debug\FichaVBmc01.vbproj.GenerateResource.Cache
+c:\users\ebastos\documents\visual studio 2015\Projects\FichaVBmc01\FichaVBmc01\obj\Debug\FichaVBmc01.xml
+c:\users\ebastos\documents\visual studio 2015\Projects\FichaVBmc01\FichaVBmc01\bin\Debug\FichaVBmc01.exe
+c:\users\ebastos\documents\visual studio 2015\Projects\FichaVBmc01\FichaVBmc01\bin\Debug\FichaVBmc01.pdb
+c:\users\ebastos\documents\visual studio 2015\Projects\FichaVBmc01\FichaVBmc01\bin\Debug\FichaVBmc01.xml
+c:\users\ebastos\documents\visual studio 2015\Projects\FichaVBmc01\FichaVBmc01\obj\Debug\FichaVBmc01.exe
+c:\users\ebastos\documents\visual studio 2015\Projects\FichaVBmc01\FichaVBmc01\obj\Debug\FichaVBmc01.pdb
+E:\school\TP\FichaVBmc01\FichaVBmc01\bin\Debug\FichaVBmc01.exe.config
+E:\school\TP\FichaVBmc01\FichaVBmc01\obj\Debug\FichaVBmc01.exe
+E:\school\TP\FichaVBmc01\FichaVBmc01\obj\Debug\FichaVBmc01.xml
+E:\school\TP\FichaVBmc01\FichaVBmc01\obj\Debug\FichaVBmc01.pdb
+E:\school\TP\Ficha1VB\FichaVBmc01\FichaVBmc01\bin\Debug\FichaVBmc01.exe.config
+E:\school\TP\Ficha1VB\FichaVBmc01\FichaVBmc01\obj\Debug\FichaVBmc01.exe
+E:\school\TP\Ficha1VB\FichaVBmc01\FichaVBmc01\obj\Debug\FichaVBmc01.xml
+E:\school\TP\Ficha1VB\FichaVBmc01\FichaVBmc01\obj\Debug\FichaVBmc01.pdb

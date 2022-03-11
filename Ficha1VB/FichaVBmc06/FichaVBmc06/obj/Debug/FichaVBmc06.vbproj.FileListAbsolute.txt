@@ -1,0 +1,14 @@
+H:\TP\FichaVBmc06\FichaVBmc06\bin\Debug\FichaVBmc06.exe.config
+H:\TP\FichaVBmc06\FichaVBmc06\bin\Debug\FichaVBmc06.exe
+H:\TP\FichaVBmc06\FichaVBmc06\bin\Debug\FichaVBmc06.pdb
+H:\TP\FichaVBmc06\FichaVBmc06\bin\Debug\FichaVBmc06.xml
+H:\TP\FichaVBmc06\FichaVBmc06\obj\Debug\FichaVBmc06.vbprojResolveAssemblyReference.cache
+H:\TP\FichaVBmc06\FichaVBmc06\obj\Debug\FichaVBmc06.Resources.resources
+H:\TP\FichaVBmc06\FichaVBmc06\obj\Debug\FichaVBmc06.vbproj.GenerateResource.Cache
+H:\TP\FichaVBmc06\FichaVBmc06\obj\Debug\FichaVBmc06.exe
+H:\TP\FichaVBmc06\FichaVBmc06\obj\Debug\FichaVBmc06.xml
+H:\TP\FichaVBmc06\FichaVBmc06\obj\Debug\FichaVBmc06.pdb
+E:\school\TP\Ficha1VB\FichaVBmc06\FichaVBmc06\bin\Debug\FichaVBmc06.exe.config
+E:\school\TP\Ficha1VB\FichaVBmc06\FichaVBmc06\obj\Debug\FichaVBmc06.exe
+E:\school\TP\Ficha1VB\FichaVBmc06\FichaVBmc06\obj\Debug\FichaVBmc06.xml
+E:\school\TP\Ficha1VB\FichaVBmc06\FichaVBmc06\obj\Debug\FichaVBmc06.pdb

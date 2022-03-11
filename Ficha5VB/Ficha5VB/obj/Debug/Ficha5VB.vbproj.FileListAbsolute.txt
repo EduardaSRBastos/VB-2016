@@ -1,0 +1,28 @@
+E:\school\TP\Ficha5VB\Ficha5VB\bin\Debug\Ficha5VB.exe.config
+E:\school\TP\Ficha5VB\Ficha5VB\bin\Debug\Ficha5VB.exe
+E:\school\TP\Ficha5VB\Ficha5VB\bin\Debug\Ficha5VB.pdb
+E:\school\TP\Ficha5VB\Ficha5VB\bin\Debug\Ficha5VB.xml
+E:\school\TP\Ficha5VB\Ficha5VB\obj\Debug\Ficha5VB.vbprojResolveAssemblyReference.cache
+E:\school\TP\Ficha5VB\Ficha5VB\obj\Debug\Ficha5VB.Resources.resources
+E:\school\TP\Ficha5VB\Ficha5VB\obj\Debug\Ficha5VB.vbproj.GenerateResource.Cache
+E:\school\TP\Ficha5VB\Ficha5VB\obj\Debug\Ficha5VB.exe
+E:\school\TP\Ficha5VB\Ficha5VB\obj\Debug\Ficha5VB.xml
+E:\school\TP\Ficha5VB\Ficha5VB\obj\Debug\Ficha5VB.pdb
+E:\school\TP\Ficha5VB acabar\Ficha5VB\bin\Debug\Ficha5VB.exe.config
+E:\school\TP\Ficha5VB acabar\Ficha5VB\obj\Debug\Ficha5VB.exe
+E:\school\TP\Ficha5VB acabar\Ficha5VB\obj\Debug\Ficha5VB.xml
+E:\school\TP\Ficha5VB acabar\Ficha5VB\obj\Debug\Ficha5VB.pdb
+E:\school\TP\Ficha5VB acabar\Ficha5VB\bin\Debug\Ficha5VB.exe
+E:\school\TP\Ficha5VB acabar\Ficha5VB\bin\Debug\Ficha5VB.pdb
+E:\school\TP\Ficha5VB acabar\Ficha5VB\bin\Debug\Ficha5VB.xml
+E:\school\TP\Ficha5VB acabar\Ficha5VB\obj\Debug\Ficha5VB.vbprojResolveAssemblyReference.cache
+E:\school\TP\Ficha5VB acabar\Ficha5VB\obj\Debug\Ficha5VB.Resources.resources
+E:\school\TP\Ficha5VB acabar\Ficha5VB\obj\Debug\Ficha5VB.vbproj.GenerateResource.Cache
+G:\school\TP\Ficha5VB\Ficha5VB\bin\Debug\Ficha5VB.exe.config
+G:\school\TP\Ficha5VB\Ficha5VB\obj\Debug\Ficha5VB.exe
+G:\school\TP\Ficha5VB\Ficha5VB\obj\Debug\Ficha5VB.xml
+G:\school\TP\Ficha5VB\Ficha5VB\obj\Debug\Ficha5VB.pdb
+E:\school\10ºAno\TP\FichasVB\Ficha5VB\Ficha5VB\bin\Debug\Ficha5VB.exe.config
+E:\school\10ºAno\TP\FichasVB\Ficha5VB\Ficha5VB\obj\Debug\Ficha5VB.exe
+E:\school\10ºAno\TP\FichasVB\Ficha5VB\Ficha5VB\obj\Debug\Ficha5VB.xml
+E:\school\10ºAno\TP\FichasVB\Ficha5VB\Ficha5VB\obj\Debug\Ficha5VB.pdb

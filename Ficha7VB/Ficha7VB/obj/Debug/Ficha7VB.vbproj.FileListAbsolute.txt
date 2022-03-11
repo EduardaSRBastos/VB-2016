@@ -1,0 +1,14 @@
+E:\school\TP\Ficha7VB\Ficha7VB\bin\Debug\Ficha7VB.exe.config
+E:\school\TP\Ficha7VB\Ficha7VB\bin\Debug\Ficha7VB.exe
+E:\school\TP\Ficha7VB\Ficha7VB\bin\Debug\Ficha7VB.pdb
+E:\school\TP\Ficha7VB\Ficha7VB\bin\Debug\Ficha7VB.xml
+E:\school\TP\Ficha7VB\Ficha7VB\obj\Debug\Ficha7VB.vbprojResolveAssemblyReference.cache
+E:\school\TP\Ficha7VB\Ficha7VB\obj\Debug\Ficha7VB.Resources.resources
+E:\school\TP\Ficha7VB\Ficha7VB\obj\Debug\Ficha7VB.vbproj.GenerateResource.Cache
+E:\school\TP\Ficha7VB\Ficha7VB\obj\Debug\Ficha7VB.exe
+E:\school\TP\Ficha7VB\Ficha7VB\obj\Debug\Ficha7VB.xml
+E:\school\TP\Ficha7VB\Ficha7VB\obj\Debug\Ficha7VB.pdb
+G:\school\TP\Ficha7VB\Ficha7VB\bin\Debug\Ficha7VB.exe.config
+G:\school\TP\Ficha7VB\Ficha7VB\obj\Debug\Ficha7VB.exe
+G:\school\TP\Ficha7VB\Ficha7VB\obj\Debug\Ficha7VB.xml
+G:\school\TP\Ficha7VB\Ficha7VB\obj\Debug\Ficha7VB.pdb

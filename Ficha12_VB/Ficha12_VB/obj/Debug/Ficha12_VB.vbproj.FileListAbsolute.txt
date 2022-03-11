@@ -1,0 +1,10 @@
+G:\school\TP\Ficha12_VB\Ficha12_VB\bin\Debug\Ficha12_VB.exe.config
+G:\school\TP\Ficha12_VB\Ficha12_VB\bin\Debug\Ficha12_VB.exe
+G:\school\TP\Ficha12_VB\Ficha12_VB\bin\Debug\Ficha12_VB.pdb
+G:\school\TP\Ficha12_VB\Ficha12_VB\bin\Debug\Ficha12_VB.xml
+G:\school\TP\Ficha12_VB\Ficha12_VB\obj\Debug\Ficha12_VB.Resources.resources
+G:\school\TP\Ficha12_VB\Ficha12_VB\obj\Debug\Ficha12_VB.vbproj.GenerateResource.Cache
+G:\school\TP\Ficha12_VB\Ficha12_VB\obj\Debug\Ficha12_VB.exe
+G:\school\TP\Ficha12_VB\Ficha12_VB\obj\Debug\Ficha12_VB.xml
+G:\school\TP\Ficha12_VB\Ficha12_VB\obj\Debug\Ficha12_VB.pdb
+G:\school\TP\Ficha12_VB\Ficha12_VB\obj\Debug\Ficha12_VB.vbprojResolveAssemblyReference.cache

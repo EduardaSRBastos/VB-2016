@@ -1,0 +1,17 @@
+E:\TP\Ficha7VBmc02\Ficha7VBmc02\bin\Debug\Ficha7VBmc02.exe.config
+E:\TP\Ficha7VBmc02\Ficha7VBmc02\bin\Debug\Ficha7VBmc02.exe
+E:\TP\Ficha7VBmc02\Ficha7VBmc02\bin\Debug\Ficha7VBmc02.pdb
+E:\TP\Ficha7VBmc02\Ficha7VBmc02\bin\Debug\Ficha7VBmc02.xml
+E:\TP\Ficha7VBmc02\Ficha7VBmc02\obj\Debug\Ficha7VBmc02.Resources.resources
+E:\TP\Ficha7VBmc02\Ficha7VBmc02\obj\Debug\Ficha7VBmc02.vbproj.GenerateResource.Cache
+E:\TP\Ficha7VBmc02\Ficha7VBmc02\obj\Debug\Ficha7VBmc02.exe
+E:\TP\Ficha7VBmc02\Ficha7VBmc02\obj\Debug\Ficha7VBmc02.xml
+E:\TP\Ficha7VBmc02\Ficha7VBmc02\obj\Debug\Ficha7VBmc02.pdb
+J:\TP\Ficha7VBmc02\Ficha7VBmc02\bin\Debug\Ficha7VBmc02.exe.config
+J:\TP\Ficha7VBmc02\Ficha7VBmc02\obj\Debug\Ficha7VBmc02.exe
+J:\TP\Ficha7VBmc02\Ficha7VBmc02\obj\Debug\Ficha7VBmc02.xml
+J:\TP\Ficha7VBmc02\Ficha7VBmc02\obj\Debug\Ficha7VBmc02.pdb
+E:\school\TP\Ficha7VBmc02\Ficha7VBmc02\bin\Debug\Ficha7VBmc02.exe.config
+E:\school\TP\Ficha7VBmc02\Ficha7VBmc02\obj\Debug\Ficha7VBmc02.exe
+E:\school\TP\Ficha7VBmc02\Ficha7VBmc02\obj\Debug\Ficha7VBmc02.xml
+E:\school\TP\Ficha7VBmc02\Ficha7VBmc02\obj\Debug\Ficha7VBmc02.pdb

@@ -1,0 +1,14 @@
+E:\school\TP\Ficha3VB\Ficha3VB\bin\Debug\Ficha3VB.exe.config
+E:\school\TP\Ficha3VB\Ficha3VB\bin\Debug\Ficha3VB.exe
+E:\school\TP\Ficha3VB\Ficha3VB\bin\Debug\Ficha3VB.pdb
+E:\school\TP\Ficha3VB\Ficha3VB\bin\Debug\Ficha3VB.xml
+E:\school\TP\Ficha3VB\Ficha3VB\obj\Debug\Ficha3VB.vbprojResolveAssemblyReference.cache
+E:\school\TP\Ficha3VB\Ficha3VB\obj\Debug\Ficha3VB.Resources.resources
+E:\school\TP\Ficha3VB\Ficha3VB\obj\Debug\Ficha3VB.vbproj.GenerateResource.Cache
+E:\school\TP\Ficha3VB\Ficha3VB\obj\Debug\Ficha3VB.exe
+E:\school\TP\Ficha3VB\Ficha3VB\obj\Debug\Ficha3VB.xml
+E:\school\TP\Ficha3VB\Ficha3VB\obj\Debug\Ficha3VB.pdb
+J:\school\TP\Ficha3VB\Ficha3VB\bin\Debug\Ficha3VB.exe.config
+J:\school\TP\Ficha3VB\Ficha3VB\obj\Debug\Ficha3VB.exe
+J:\school\TP\Ficha3VB\Ficha3VB\obj\Debug\Ficha3VB.xml
+J:\school\TP\Ficha3VB\Ficha3VB\obj\Debug\Ficha3VB.pdb
